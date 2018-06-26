@@ -27,6 +27,6 @@ $ pod install
 ## launch Android
 ``$ react-native run-android``
 
-Enjoy
+:v: **Enjoy!**
 
 
