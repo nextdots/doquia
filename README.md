@@ -1,7 +1,7 @@
 # Doquia Android & iOS Mobile App
 With Doquia a doctor can assist you within minutes! It helps you to find the on-call medical center closer to your location according to coverage. It has alerts to the community with the real-time status of the medical centers so that the user can choose where to go.
 
-###### Libreries used:
+###### Libreries used
 
 - **Flux architecture**
   -  [Redux](https://redux.js.org/introduction) 
