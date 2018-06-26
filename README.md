@@ -8,6 +8,12 @@ Android & iOS App to Find your Medical guard in minutes in your city
   
 - **Routing and navigation**
   -  [React Native Navigtation from Wix](https://github.com/wix/react-native-navigation)   
+  
+- **Networking**
+  -  [Axios](https://github.com/axios/axios)   
+
+- **Maps**
+  -  [React Native Maps](https://github.com/react-community/react-native-maps)   
 
 ## Getting started
 ```
